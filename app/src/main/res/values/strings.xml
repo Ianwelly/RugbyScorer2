@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RugbyScorer</string>
+    <string name="team_a">Team A</string>
+    <string name="_0">0</string>
+    <string name="Try">Try</string>
+    <string name="conversion">Conversion</string>
+    <string name="penalty_kick">Penalty Kick</string>
+    <string name="drop_kick">Drop Kick</string>
+    <string name="team_b">Team B</string>
+    <string name="_0_team_b">0</string>
+    <string name="try_team_b">Try</string>
+    <string name="conversion_team_b">Conversion</string>
+    <string name="penalty_kick_team_b">Penalty Kick</string>
+    <string name="drop_kick_team_b">Drop Kick</string>
+    <string name="reset">reset</string>
+</resources>
