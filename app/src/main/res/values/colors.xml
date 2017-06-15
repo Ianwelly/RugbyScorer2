@@ -3,4 +3,23 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#26A69A</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--Team A colors-->
+    <color name="team_a_score_text_color"> #000</color>
+    <color name="team_a_try_button_bground_color"> #80B2DFDB</color>
+    <color name="team_a_conversion_button_bground_color">#8080CBC4 </color>
+    <color name="team_a_penalty_button_bground_color">#804DB6AC </color>
+    <color name="team_a_dropkick_bground_color"> #8026A69A</color>
+
+    <!--Team B colors-->
+    <color name="team_b_score_text_color"> #000</color>
+    <color name="team_b_try_button_bground_color"> #80B2DFDB</color>
+    <color name="team_b_conversion_button_bground_color">#8080CBC4  </color>
+    <color name="team_b_penalty_button_bground_color">#804DB6AC </color>
+    <color name="team_b_dropkick_bground_color">#8026A69A </color>
+
+    <!--Reset Button-->
+    <color name="reset_button_bground_color">#009688 </color>
+
+
 </resources>
